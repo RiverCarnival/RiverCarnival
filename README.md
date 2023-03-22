@@ -20,4 +20,4 @@
   </div>
 </div>
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/RiverCarnival/blob/output/github-contribution-grid-snake.svg)
