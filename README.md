@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com Data Science
-- 🌱 Estou aprendo Machine Learning e Análise de Dados
+- 🌱 Estou aprendendo Machine Learning e Análise de Dados
 - 👨‍💻 Sou Acadêmico de Engenharia da Computação
 - ✉️ contato: dtmnex@gmail.com
 
