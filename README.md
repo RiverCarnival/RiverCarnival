@@ -19,5 +19,3 @@
     <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </div>
 </div>
-
-![Snake animation](https://github.com/seu-usuário-aqui/RiverCarnival/blob/output/github-contribution-grid-snake.svg)
