@@ -1,6 +1,6 @@
 ### Olá, tudo bem? 👋
 
-
+- Meu nome é Valdemir Chaves
 - 🔭 Atualmente trabalho com Data Science
 - 🌱 Estou aprendendo Machine Learning e Análise de Dados
 - 👨‍💻 Sou Acadêmico de Engenharia da Computação
